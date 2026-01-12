@@ -12,8 +12,6 @@
 
 安装插件后，在插件订阅以下链接：
 
-Github 原生链接：
-
 ```
 https://raw.githubusercontent.com/obgnail/chinese-internet-is-dead/master/blocklist.txt
 ```

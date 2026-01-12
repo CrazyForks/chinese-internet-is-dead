@@ -4986,7 +4986,6 @@ title/- C次元/
 *://*.gushiwen.cn/*
 *://*.zuyu123.cn/*
 *://216.180.232.93/*
-*://*.oryoy.com/*
 *://*.gm44.cn/*
 *://*.jiligamefun.com/*
 *://m.baidu.com/vsearch/*
@@ -5053,3 +5052,8 @@ title/- C次元/
 *://*.senluocaituanvip.com/*
 *://*.igacg.com/*
 *://*.xyouacg.com/*
+*://a.4399.cn/*
+*://*.bufan.com/*
+*://*.caihongjiepai.me/*
+*://*.kuakeba.cn/*
+*://*.yuanqxz.com/*
