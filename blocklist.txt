@@ -6,6 +6,7 @@ title/– 青楼网/
 title/– 蜜糖网/
 title/– 糖豆网/
 title/– 三三图/
+title/– 图碧萝/
 title/– 形色人/
 title/– 美图舍/
 title/– 黑色猫/
@@ -35,7 +36,6 @@ title/-爱图社/
 title/-色久爱/
 title/-丝腿网/
 title/-色欲阁/
-title/– 图碧萝/
 title/-冰火次元/
 title/-蜜思图集/
 title/-虫虫乐园/
@@ -71,6 +71,7 @@ title/- COS妖/
 title/- COS君/
 title/- cos社/
 title/- COS集/
+title/- Cos写真/
 title/- COS写真/
 title/- cos王者/
 title/- COS猎人/
@@ -87,6 +88,7 @@ title/- JK营/
 title/- OK写真/
 title/- Xcos/
 
+title/- 美库/
 title/- 酱推/
 title/- 丝域/
 title/- 奶圈/
@@ -193,6 +195,9 @@ title/- 我為人人人人為我/
 title/- 我为人人人人为我/
 
 title/- 微图吧/
+title/- 伊图恋/
+title/- 萌图集/
+title/- 萌想阁/
 title/- 舞艺吧/
 title/- 图集侠/
 title/- 影语阁/
@@ -394,8 +399,8 @@ title/- C次元/
 /(.+%E2%98%80%EF%B8%8F)+/
 /(.+%E2%9D%A4%EF%B8%8F%E2%80%8D)+/
 
-*://*.csdnimg.cn/*
 *://*.csdn.net/*
+*://*.csdnimg.cn/*
 *://*.icode.best/*
 *://*.chuzhounews.com/*
 *://*.ddkktxy.xyz/*
@@ -5057,3 +5062,27 @@ title/- C次元/
 *://*.caihongjiepai.me/*
 *://*.kuakeba.cn/*
 *://*.yuanqxz.com/*
+*://*.ysbaoku.com/*
+*://jianghu.taobao.com/*
+*://*.nryxh.com/*
+*://*.almcy88.com/*
+*://*.kvacg.com/*
+*://*.heimao1.com/*
+*://*.lululu.la/*
+*://*.cosjunpro.com/*
+*://*.miaolingyu.com/*
+*://*.fetisale.com/*
+*://*.tuluoj.cc/*
+*://*.coserpic.com/*
+*://*.hcw3.cn/*
+*://*.cosplay2.com/*
+*://*.snzhixu.com/*
+*://*.tujizhi.com/*
+*://*.zhaiheji01.com/*
+*://*.xiurenx.com/*
+*://*.tuyinji.com/*
+*://*.weimiba.com/*
+*://*.hhoverseas.cn/*
+*://*.cosersilo.com/*
+*://*.cosjidipro.com/*
+*://*.weimimao.cc/*
